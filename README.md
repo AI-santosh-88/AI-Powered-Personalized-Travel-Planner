@@ -20,6 +20,7 @@ This application uses OpenAI's GPT-4 model to instantly generate tailored travel
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📝 Project Description:
+
 This is a Streamlit-based web app that acts as a virtual travel consultant. Users enter their destination, trip length, budget, and interests, and the app uses OpenAI's GPT-4 API to generate a customized daily itinerary. A visually appealing background and clean UI improve the user experience.
 
 
