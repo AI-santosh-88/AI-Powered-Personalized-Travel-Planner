@@ -43,13 +43,14 @@ This is a Streamlit-based web app that acts as a virtual travel consultant. User
 
 📦 Python Packages Used:
 
-Package                              	Purpose
--------                               -------
-1. streamlit	                        UI framework for building the web app
+Package           -                   	Purpose
+-------                                 -------
+
+1. streamlit	       -                  UI framework for building the web app
    
-2. openai	                            Interact with OpenAI's language models
+2. openai	          -                   Interact with OpenAI's language models
    
-3. os	                                (Not used in this version but often included for managing environment variables/API keys securely)
+3. os	              -                  (Not used in this version but often included for managing environment variables/API keys securely)
 
 
 📋 Project Summary:
